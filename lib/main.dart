@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
       // Application name
       title: 'Componentes App',
       debugShowCheckedModeBanner: false,
-      home: HomePageTemp(),
+      home: HomePage(),
     );
   }
 }
